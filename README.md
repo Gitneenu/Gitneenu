@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Niranjana Ramesh
 
-<!--
-**Gitneenu/Gitneenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Btech Computer Science Student at Govt Model Engineering College
 
-Here are some ideas to get you started:
+## 🚀 About Me
+ 
+💻 Aspiring Software Engineer  
+🤖 Passionate about Artificial Intelligence, Machine Learning, Blockchain
+📈 Continuously improving through projects and coding practice.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+---
+
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Gitneenu&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitneenu&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Gitneenu&theme=tokyonight)
+
+---
+
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/niranjana-ramesh/
+- Email: niranjanaramesh.mec@gmail.com
+
+---
+
+> *"Code. Learn. Build. Repeat."* 🚀
