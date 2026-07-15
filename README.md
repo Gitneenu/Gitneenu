@@ -4,8 +4,8 @@ Btech Computer Science Student at Govt Model Engineering College
 
 ## 🚀 About Me
  
-💻 Aspiring Software Engineer  
-🤖 Passionate about Artificial Intelligence, Machine Learning, Blockchain
+💻 Aspiring Software Engineer.  
+🤖 Passionate about Artificial Intelligence, Machine Learning, Blockchain.
 📈 Continuously improving through projects and coding practice.
 ---
 
