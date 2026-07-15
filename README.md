@@ -7,8 +7,8 @@ Btech Computer Science Student at Govt Model Engineering College
 ## 💫 About Me
 
 - 💻 Aspiring **Software Engineer**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Blockchain**
-- 📈 Continuously improving through **projects, coding practice, and continuous learning**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning,Blockchain**
+- 📈 Passionate about learning new technologies and applying them to practical projects.
 
 ---
 
@@ -32,6 +32,5 @@ Btech Computer Science Student at Govt Model Engineering College
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/niranjana-ramesh/
 - Email: niranjanaramesh.mec@gmail.com
 
